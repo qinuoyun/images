@@ -12,4 +12,7 @@
 namespace this7\images;
 class images {
 
+    public function demo($value = '') {
+        echo "demo";
+    }
 }
